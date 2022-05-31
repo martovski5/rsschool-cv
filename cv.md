@@ -4,7 +4,7 @@
 * E-mail: krustinson88@gmail.com
 * Telegram: @martovski5
 * Location: Vitebsk, Belarus
-About Me
+## About Me
 I am 25. I would like to become a frontend developer. Therefore, I devote all my free time to learning web development.
 I also study English. I know my goals and strive to achieve them.
 # My skills
