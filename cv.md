@@ -36,23 +36,12 @@ function pushRules() {
 ## Education
 * **University**: Ministry of Emergency Situations of Belarus
 * **Courses**:
- + HTML Academy
- + learnjavascript.ru
- + schoolsw3.com
+    + HTML Academy
+    + learnjavascript.ru
+    + schoolsw3.com
 
 ## Languages
 * **Russian** - Native
 * **Belorussian** - Intermediate
 * **English** - Pre - intermediate
-
-
-
-
-
-
-
-
-
-
-
 
